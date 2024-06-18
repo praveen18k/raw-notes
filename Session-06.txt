@@ -49,6 +49,7 @@ US exchane point --> which ISP is providing internet to facebook datacenter --> 
 
 Wireless
 
+
 Monolithic vs Microservices
 --------------------------
 application is very big
@@ -70,6 +71,7 @@ Backend team is different
 API -->
 
 Fronend always calls backend through API calls, Backend will send data in JSON format and images
+
 
 roboshop
 -------------------
